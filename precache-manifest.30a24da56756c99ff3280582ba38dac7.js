@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26ab9a20adadd48dba638a26eafee008",
+    "revision": "dd075212167eb1ef7183dfcfdf0a2b10",
     "url": "/nikamanthabsite/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nikamanthabsite/static/css/2.c8eb4b74.chunk.css"
   },
   {
-    "revision": "19102ae160de33b516dc",
-    "url": "/nikamanthabsite/static/css/main.302c0656.chunk.css"
+    "revision": "c6d5e3bfc96c769d778d",
+    "url": "/nikamanthabsite/static/css/main.b97b28c9.chunk.css"
   },
   {
     "revision": "f769c6223388fa639969",
     "url": "/nikamanthabsite/static/js/2.c98e0cec.chunk.js"
   },
   {
-    "revision": "19102ae160de33b516dc",
+    "revision": "c6d5e3bfc96c769d778d",
     "url": "/nikamanthabsite/static/js/main.7098ff0e.chunk.js"
   },
   {

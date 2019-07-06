@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nikamanthabsite/static/css/main.302c0656.chunk.css",
+    "main.css": "/nikamanthabsite/static/css/main.b97b28c9.chunk.css",
     "main.js": "/nikamanthabsite/static/js/main.7098ff0e.chunk.js",
     "main.js.map": "/nikamanthabsite/static/js/main.7098ff0e.chunk.js.map",
     "runtime~main.js": "/nikamanthabsite/static/js/runtime~main.21a4998e.js",
@@ -9,10 +9,10 @@
     "static/js/2.c98e0cec.chunk.js": "/nikamanthabsite/static/js/2.c98e0cec.chunk.js",
     "static/js/2.c98e0cec.chunk.js.map": "/nikamanthabsite/static/js/2.c98e0cec.chunk.js.map",
     "index.html": "/nikamanthabsite/index.html",
-    "precache-manifest.b75830d9abb7f85f8e0ef764f94ce006.js": "/nikamanthabsite/precache-manifest.b75830d9abb7f85f8e0ef764f94ce006.js",
+    "precache-manifest.30a24da56756c99ff3280582ba38dac7.js": "/nikamanthabsite/precache-manifest.30a24da56756c99ff3280582ba38dac7.js",
     "service-worker.js": "/nikamanthabsite/service-worker.js",
     "static/css/2.c8eb4b74.chunk.css.map": "/nikamanthabsite/static/css/2.c8eb4b74.chunk.css.map",
-    "static/css/main.302c0656.chunk.css.map": "/nikamanthabsite/static/css/main.302c0656.chunk.css.map",
+    "static/css/main.b97b28c9.chunk.css.map": "/nikamanthabsite/static/css/main.b97b28c9.chunk.css.map",
     "static/media/semantic.min.css": "/nikamanthabsite/static/media/outline-icons.ef60a4f6.woff",
     "static/media/cv.pdf": "/nikamanthabsite/static/media/cv.eeadb3a3.pdf",
     "static/media/graduation.svg": "/nikamanthabsite/static/media/graduation.721cc5f8.svg",
