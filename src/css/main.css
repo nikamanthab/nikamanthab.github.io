@@ -1,0 +1,93 @@
+.whitetext{
+    color:"white";
+}
+
+.maindiv{
+    height:100vh;
+    overflow-y: auto;
+    background-image: url("./../images/wallpaper.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+}
+
+.homediv{
+    height:90vh;
+}
+
+.inner-div{
+    padding:20px;
+    margin-top:18vh;
+    margin-bottom:10vh;
+    border-radius: 20px;
+    /* box-shadow: 2px 2px 2px 2px black; */
+    background-color: rgba(0, 0, 0, 0.349);
+}
+@media (max-width: 756px) { 
+    .inner-div{
+        margin-top:0px;
+    }
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.padding{
+    padding:20px;
+}
+
+.shadowbackground{
+    background-color: rgba(102, 101, 101, 0.212)
+}
+
+.img-icon{
+    width:55px;
+    padding:5px;
+}
+@media (max-width: 756px) { 
+    .img-icon{
+        width:35px;
+        padding:5px;
+    }
+}
+
+.interest-field{
+    padding:10px;
+    border-radius:10px;
+    background-color: rgba(0, 0, 0, 0.452);
+    color:white;
+    margin:20px;
+}
+
+.heading{
+    text-align:center;
+    color:rgb(241, 109, 0);
+}
+
+.subheading{
+    color:rgb(207, 207, 250);
+}
+
+.interest-div{
+    margin:10px;
+    text-align: center;
+    border-radius:10px;
+}
+
+.project-div{
+    padding-left:350px;
+    padding-right: 350px;
+    font-size: 20px;
+}
+@media (max-width: 756px) { 
+    .project-div{
+        padding-left:0px;
+        padding-right: 0px;
+        font-size: 15px;
+    }
+}
